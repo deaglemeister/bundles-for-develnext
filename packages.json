@@ -13,4 +13,11 @@
         "author": "FXEdition2",
         "download_url": "https://github.com/deaglemeister/bundles-for-develnext/raw/main/AnimateFX1.0.1.zip"
     },
+        {
+        "name": "Test2",
+        "description": "Tes2t",
+        "version": "1.0.2",
+        "author": "FXEdition2",
+        "download_url": "https://github.com/deaglemeister/bundles-for-develnext/raw/main/AnimateFX1.0.1.zip"
+    },
 ]
