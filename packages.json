@@ -13,10 +13,24 @@
         "author": "FXEdition2",
         "download_url": "https://github.com/deaglemeister/bundles-for-develnext/raw/main/AnimateFX1.0.1.zip"
     },
-        {
+    {
         "name": "Annotations",
         "description": "Tes2t",
         "version": "1.2.5",
+        "author": "FXEdition2",
+        "download_url": "https://github.com/deaglemeister/bundles-for-develnext/raw/main/AnimateFX1.0.1.zip"
+    },
+    {
+        "name": "App Game Kit",
+        "description": "Tes2t",
+        "version": "1.0.0",
+        "author": "FXEdition2",
+        "download_url": "https://github.com/deaglemeister/bundles-for-develnext/raw/main/AnimateFX1.0.1.zip"
+    },
+    {
+        "name": "AudioBundlet",
+        "description": "Tes2t",
+        "version": "0.14",
         "author": "FXEdition2",
         "download_url": "https://github.com/deaglemeister/bundles-for-develnext/raw/main/AnimateFX1.0.1.zip"
     },
