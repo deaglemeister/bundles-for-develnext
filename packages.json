@@ -55,4 +55,32 @@
         "author": "FXEdition2",
         "download_url": "https://github.com/deaglemeister/bundles-for-develnext/raw/main/AnimateFX1.0.1.zip"
     },
+    {
+        "name": "ControlsFX",
+        "description": "Tes2t",
+        "version": "1.0.5",
+        "author": "FXEdition2",
+        "download_url": "https://github.com/deaglemeister/bundles-for-develnext/raw/main/AnimateFX1.0.1.zip"
+    },
+    {
+        "name": "DFFI",
+        "description": "Tes2t",
+        "version": "1.0.1",
+        "author": "FXEdition2",
+        "download_url": "https://github.com/deaglemeister/bundles-for-develnext/raw/main/AnimateFX1.0.1.zip"
+    },
+    {
+        "name": "DiscordRPC",
+        "description": "Tes2t",
+        "version": "1.0.1",
+        "author": "FXEdition2",
+        "download_url": "https://github.com/deaglemeister/bundles-for-develnext/raw/main/AnimateFX1.0.1.zip"
+    },
+    {
+        "name": "Localization",
+        "description": "Tes2t",
+        "version": "1.0.0",
+        "author": "FXEdition2",
+        "download_url": "https://github.com/deaglemeister/bundles-for-develnext/raw/main/AnimateFX1.0.1.zip"
+    },
 ]
